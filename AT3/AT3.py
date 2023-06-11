@@ -1,4 +1,4 @@
-#Created by Asher Johnston from 15th May to (insert date here)
+#Created by Asher Johnston from 15th May to 11th June
 #Function is as a simple game, where the player has to dodge randomly positioned objects
 #Game is built using the pygame module for python, and is based off an in-class tutorial series
 
